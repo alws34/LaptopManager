@@ -1,0 +1,16 @@
+{
+  "123": {
+    "Model": "",
+    "SN": "123",
+    "NumInLaptopSys": "",
+    "SuppliedTo": "test",
+    "IsInStock": true
+  },
+  "1234": {
+    "Model": "sdfag",
+    "SN": "1234",
+    "NumInLaptopSys": "3214",
+    "SuppliedTo": "sadg",
+    "IsInStock": false
+  }
+}

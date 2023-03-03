@@ -1,0 +1,15 @@
+C:\Users\alws3\source\repos\InventoryManager\bin\Release\InventoryManager.exe.config
+C:\Users\alws3\source\repos\InventoryManager\bin\Release\InventoryManager.exe
+C:\Users\alws3\source\repos\InventoryManager\bin\Release\InventoryManager.pdb
+C:\Users\alws3\source\repos\InventoryManager\bin\Release\Newtonsoft.Json.dll
+C:\Users\alws3\source\repos\InventoryManager\bin\Release\Newtonsoft.Json.xml
+C:\Users\alws3\source\repos\InventoryManager\obj\Release\InventoryManager.csproj.AssemblyReference.cache
+C:\Users\alws3\source\repos\InventoryManager\obj\Release\InventoryManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\alws3\source\repos\InventoryManager\obj\Release\InventoryManager.frmMain.resources
+C:\Users\alws3\source\repos\InventoryManager\obj\Release\InventoryManager.Properties.Resources.resources
+C:\Users\alws3\source\repos\InventoryManager\obj\Release\InventoryManager.UCLaptop.resources
+C:\Users\alws3\source\repos\InventoryManager\obj\Release\InventoryManager.csproj.GenerateResource.cache
+C:\Users\alws3\source\repos\InventoryManager\obj\Release\InventoryManager.csproj.CoreCompileInputs.cache
+C:\Users\alws3\source\repos\InventoryManager\obj\Release\InventoryManager.csproj.CopyComplete
+C:\Users\alws3\source\repos\InventoryManager\obj\Release\InventoryManager.exe
+C:\Users\alws3\source\repos\InventoryManager\obj\Release\InventoryManager.pdb
